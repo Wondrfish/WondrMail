@@ -18,5 +18,5 @@
 
 
 👨‍💻 Author
-Destiny
+Ajani
 ✉️ Personal Email Server | Built with ❤️
